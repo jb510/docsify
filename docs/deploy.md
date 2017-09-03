@@ -4,7 +4,7 @@ Similar to [GitBook](https://www.gitbook.com), you can deploy files to GitHub Pa
 
 ## GitHub Pages
 
-There're three places to populate your docs for your Github repository:
+There are three places to populate your docs for your Github repository:
 
 * `docs/` folder
 * master branch
